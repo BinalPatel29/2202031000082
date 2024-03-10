@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav1{
+     background-color: #D3C5C5;
+     height: 65px;
+     display: flex;
+}
+.logo img{
+    width: 130px;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 13px;
+}
+.menu{
+    display: flex;
+    padding-left: 40px;
+    padding-top: 7px;
+    color: black;
+    width: 1000px;
+    justify-content: space-evenly;
+}
+.acc{
+    display: flex;
+    margin-top: 7px;
+    margin-left: 200px;
+}
+.acc img{
+    width: 30px;
+    height:20px;
+    padding-left: 15px;
+    padding-top: 13px;
+}
+.nav2{
+    display: flex;
+    background-color: white;
+    height: 65px;
+}
+.search{
+    width: 680px;
+    height: 40px;
+    background-color: #D3C5C5;
+    margin-left: 300px;
+    margin-top: 12px;
+    display: flex;
+}
+.search p{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.search img{
+    width: 25px;
+    height: 20px;
+    margin-left: 580px;
+    margin-top: 10px;
+}
+.sec img{
+    height: 500px;
+    width: 1520px;
+}
+.lst img{
+    width: 35px;
+    height: 30px;
+
+}
+#lst1{
+   margin-left: 450px;
+   margin-top: 20px;
+}
+.box{
+    display: flex;
+    gap: 150px;
+}
+.box1 h1{
+    font-size: 60px;
+}
+.box1 input{
+    display: flex;
+    width: 635px;
+    height: 70px;
+    background-color: #D3C5C5;
+    border: none;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: balthazar;
+}
+.box1 button{
+    width: 220px;
+    height: 60px;
+    background-color: #22BD44;
+    font-size: 32px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 142px;  
+}
+.box1 p{
+    font-size: 25px;
+    color: #B12B2B;
+    margin-left: 455px;
+}
+.box2 h1{
+    font-size: 61px;
+}
+.box2 input{
+    display: flex;
+    width: 635px;
+    height: 65px;
+    background-color: #D3C5C5;
+    border: none;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: inter;
+}
+.foot *{
+    margin:0;
+}
+.foot{
+    height: 300px;
+    background-color: #D3C5C5;
+    display: flex;
+}
+.foot1 p{
+    font-size:30px;
+}
+.foot2 p{
+    font-size:30px;
+    margin-top:30px;
+}
+.foot3 p{
+    font-size:30px;
+    margin-top:35px;
+}
+.foot3 img{
+    width: 196px;
+    height: 49px;
+    margin-left: 200px;
+}
